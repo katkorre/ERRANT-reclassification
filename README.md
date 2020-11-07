@@ -5,9 +5,9 @@ and which are manually re-labeled. The initial error type classification has bee
 
 
 
-```
-#Cite us
 
+#Cite us
+```
 @inproceedings{korre-pavlopoulos-2020-improving,
     title = "ERRANT: Assessing and Improving Grammatical Error Type Classification",
     author = "Korre, Katerina and Pavlopoulos, John",
